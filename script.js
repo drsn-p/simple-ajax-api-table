@@ -38,7 +38,7 @@ $(document).ready(function () {
                         `</td></tr>`;
                 });
                 $("table").append(fetchdata);
-                $('table tbody').paginathing();
+                
                 
             },
         });
